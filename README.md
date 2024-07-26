@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnandaKrishnaPindiprolu
-- 👀 I’m interested in ... Full Stack Technologies in Development,Testing and Data Science and Data Engineering
+- 👀 I’m interested in ... Full Stack Technologies in Development,Testing, Data Science and Data Engineering
 - 😄 Pronouns: ... He/Him
 
 No compromise for learning... Personally and Professionally
